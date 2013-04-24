@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Custom Spinner - danielme.com</string>
+    <string name="icon">Spinner - danielme.com</string>
+    <string name="none">none</string>
+    <string name="blogger">Blogger</string>
+    <string name="delicious">Delicious</string>
+    <string name="digg">Digg</string>
+    <string name="ebay">Ebay</string>
+    <string name="flickr">Flickr</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="lastfm">Lastfm</string>
+    <string name="reddit">Reddit</string>
+    <string name="stumbleupon">StumbleUpon</string>
+    <string name="technorati">Technorati</string>
+    <string name="twitter">Twitter</string>
+    <string name="wordpress">Wordpress</string>
+    <string name="youtube">Youtube</string>
+
+</resources>
