@@ -30,7 +30,7 @@ public class MainActivity extends Activity
 		setContentView(R.layout.activity_main);	
 		
 		//datos a mostrar
-		List<SocialNetwork> items = new ArrayList<SocialNetwork>();
+		List<SocialNetwork> items = new ArrayList<SocialNetwork>(15);
 		items.add(new SocialNetwork(getString(R.string.none), R.drawable.none));
 		items.add(new SocialNetwork(getString(R.string.blogger), R.drawable.blogger));
 		items.add(new SocialNetwork(getString(R.string.delicious), R.drawable.delicious));
@@ -62,7 +62,7 @@ public class MainActivity extends Activity
 			{
 				//nothing				
 			}
-		});
+		});		
 
 	}
 }
