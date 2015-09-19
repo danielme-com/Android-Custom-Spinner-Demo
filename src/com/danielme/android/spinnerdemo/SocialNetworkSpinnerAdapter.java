@@ -74,7 +74,7 @@ public class SocialNetworkSpinnerAdapter extends ArrayAdapter<SocialNetwork>
 	 * @author danielme.com
 	 *
 	 */
-	private class SocialNetworkHolder
+	private static class SocialNetworkHolder
 	{
 
 		private ImageView icono;
